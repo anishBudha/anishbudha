@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [anishbudha.com.np](anishbudha.com.np)
 
-- ⚡ Fun fact **I am shy and boring kid.**
+- ⚡ Fun fact **The original name for the search engine Google was Backrub. It was renamed Google after the googol, which is the number one followed by 100 zeros. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
