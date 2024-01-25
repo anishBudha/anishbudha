@@ -88,8 +88,8 @@ const profile = {
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![dummy-nodejs-project1](https://img.shields.io/static/v1?label=&message=dummy-nodejs-project1&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/user/dummy-nodejs-project1) [![dummy-nodejs-project2](https://img.shields.io/static/v1?label=&message=dummy-nodejs-project2&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/user/dummy-nodejs-project2) [![dummy-nodejs-project3](https://img.shields.io/static/v1?label=&message=dummy-nodejs-project3&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/user/dummy-nodejs-project3) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+<div style="display:flex;">
 <img src="https://cultofthepartyparrot.com/flags/hd/canadaparrot.gif" width="60" height="60"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/nepalparrot.gif" width="60" height="60"/>
-
-
+</div>
 
