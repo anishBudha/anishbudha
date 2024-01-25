@@ -69,7 +69,6 @@ const profile = {
   <span><img src="https://img.shields.io/badge/bitcoin-black?style=for-the-badge&logo=bitcoin"/></span>
   <span><img src="https://img.shields.io/badge/polygon-black?style=for-the-badge&logo=polygon"/></span>
   <span><img src="https://img.shields.io/badge/atom-black?style=for-the-badge&logo=atom"/></span>
-  <span><img src=""/></span>
   <br/>
 
   <h4>AI</h4>
