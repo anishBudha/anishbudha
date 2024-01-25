@@ -1,6 +1,4 @@
-<img style="width: 100%; height: 20vh; object-fit: contain;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw0ZHRoaGxobmF0M24zMHc0ajM2bDgyYmk2YmsyYmQwNTVlZmwzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif"/>
-
- <h1 align=center> ANISH BUDHA </h1>
+<h1 align=center> ANISH BUDHA </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anish-budha-8b455a211/" title="Linkedin">
@@ -11,9 +9,9 @@
   </a>
 </p>
 
-<p style="width: 100%;">
-Hello!, I am a Computer Science student passionate about exploring concurrent technologies. Currently, I'm diving into various technologies to broaden my tech stack and deepen my understanding of software/web development. I also have a keen interest in blockchain technologies and solutions, actively delve into the intricacies of decentralized systems and innovative solutions.
-</p>
+<h4>
+I am a Computer Science student passionate about exploring concurrent technologies. Currently, I'm diving into various technologies to broaden my tech stack and deepen my understanding of software/web development. I also have a keen interest in blockchain technologies and solutions, actively delve into the intricacies of decentralized systems and innovative solutions.
+</h4>
 
 <br/>
 
