@@ -11,10 +11,13 @@
   </a>
 </p>
 
-<div style="width: 100%;"></div>
+<p style="width: 100%;">
+
 ```
 Hello!, I am a Computer Science student passionate about exploring concurrent technologies. Currently, I'm diving into various technologies to broaden my tech stack and deepen my understanding of software/web development. I also have a keen interest in blockchain technologies and solutions, actively delve into the intricacies of decentralized systems and innovative solutions.
+
 ```
+</p>
 
 ```js
 const profile = {
