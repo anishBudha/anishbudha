@@ -1,5 +1,6 @@
 <h1 align=center> ANISH BUDHA </h1>
-
+<p align="center">
+<img src="https://im.ezgif.com/tmp/ezgif-1-22ef46f05f.gif"/></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/anish-budha-8b455a211/" title="Linkedin">
     <img src="https://img.shields.io/badge/Anish Budha%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
