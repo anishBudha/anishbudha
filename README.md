@@ -1,10 +1,10 @@
 <h1 align=center> ANISH BUDHA </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anish-budha-8b455a211/" title="Linkedin">
+  <a href="https://www.linkedin.com/in/anish-budha-8b455a211/" title="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/Anish Budha%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="" title="Linkedin">
+  <a href="anishbudha.x" title="portfolio" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&labelColor=black&color=white"/>
   </a>
 </p>
