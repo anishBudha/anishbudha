@@ -20,7 +20,7 @@ As an aspiring full-stack developer, I am dedicated to expanding my technical ex
 const profile = {
     fullName: 'Anish Budha',
     contact: 'anishbudha.x',
-    status: 'learning',
+    status: 'life long learning',
 }
 ```
 
