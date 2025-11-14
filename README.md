@@ -11,7 +11,7 @@
 </p>
 
 <h4>
-As an aspiring full-stack developer, I am dedicated to expanding my technical expertise and deepening my understanding of software and web development. Concurrently, I am actively immersing myself in the study of programming paradigms within this domain. My focus extends to embracing emerging technologies, particularly blockchain and decentralized solutions, which captivate my interest. 
+Hanging Around.
 </h4>
 
 <br/>
