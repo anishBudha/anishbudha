@@ -64,13 +64,13 @@ const profile = {
   <br/>
 
   <h4>Blockchain and Crypto Technologies</h4>
+  <span><img src="https://img.shields.io/badge/bitcoin-black?style=for-the-badge&logo=bitcoin"/></span>
   <span><img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF"/></span>
+  <span><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/polygon-black?style=for-the-badge&logo=polygon"/></span>
   <span><img src="https://img.shields.io/badge/CARDANO-black?style=for-the-badge&logo=cardano"/></span>
   <span><img src="https://img.shields.io/badge/kujira-black?style=for-the-badge&logo=kujira"/></span>
   <span><img src="https://img.shields.io/badge/Injective-black?style=for-the-badge&logo=injective"/></span>
-  <span><img src="https://img.shields.io/badge/ethereum-black?style=for-the-badge&logo=ethereum"/></span>
-  <span><img src="https://img.shields.io/badge/bitcoin-black?style=for-the-badge&logo=bitcoin"/></span>
-  <span><img src="https://img.shields.io/badge/polygon-black?style=for-the-badge&logo=polygon"/></span>
   <span><img src="https://img.shields.io/badge/atom-black?style=for-the-badge&logo=atom"/></span>
   <br/>
 
