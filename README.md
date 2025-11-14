@@ -74,17 +74,6 @@ const profile = {
   <br/>
 
   <hr/>
-  <h4>PROJECTS</h4>
-</p>
-
-
-  <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-|   **Technology** |   **Projects** |
-| - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![diswatcher-a-discord-bot](https://img.shields.io/static/v1?label=&message=diswatcher-a-discord-bot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/anishBudha/diswatcher) |
-| [![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=Javascript&logoColor=FFFFFF)](https://www.javascript.com/) | [![crypto-eye](https://img.shields.io/static/v1?label=&message=crypto-eye&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/anishBudha/crypto-eye) [![image-search-app](https://img.shields.io/static/v1?label=&message=image-search-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/anishBudha/image_search_app) |
-| [![HTML](https://img.shields.io/static/v1?label=&message=html&color=orange&logo=html5&logoColor=FFFFFF)](https://www.w3.org/html/) [![CSS](https://img.shields.io/static/v1?label=&message=css&color=blue&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![portfolio-college-project](https://img.shields.io/static/v1?label=&message=portfolio-college-project&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/anishBudha/Portfolio-college-project) [![Aokigahara-Forest-Website](https://img.shields.io/static/v1?label=&message=Aokigahara-Forest-Website&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/anishBudha/Aokigahara-Forest-Website) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 <div style="display:flex;">
 <img src="https://cultofthepartyparrot.com/flags/hd/canadaparrot.gif" width="60" height="60"/>
