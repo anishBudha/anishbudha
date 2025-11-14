@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/anish-budha-8b455a211/" title="Linkedin">
     <img src="https://img.shields.io/badge/Anish Budha%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://anishbudha.x" title="portfolio">
+  <a href="https://an1shb.com" title="portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&labelColor=black&color=white"/>
   </a>
 </p>
@@ -19,7 +19,7 @@ As an aspiring full-stack developer, I am dedicated to expanding my technical ex
 ```js
 const profile = {
     fullName: 'Anish Budha',
-    contact: 'anishbudha.x',
+    contact: 'an1shb.com',
     status: 'life long learning',
 }
 ```
