@@ -64,6 +64,7 @@ const profile = {
   <br/>
 
   <h4>Blockchain and Crypto Technologies</h4>
+  <span><img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF"/></span>
   <span><img src="https://img.shields.io/badge/CARDANO-black?style=for-the-badge&logo=cardano"/></span>
   <span><img src="https://img.shields.io/badge/kujira-black?style=for-the-badge&logo=kujira"/></span>
   <span><img src="https://img.shields.io/badge/Injective-black?style=for-the-badge&logo=injective"/></span>
@@ -73,9 +74,6 @@ const profile = {
   <span><img src="https://img.shields.io/badge/atom-black?style=for-the-badge&logo=atom"/></span>
   <br/>
 
-  <h4>AI</h4>
-  <span><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></span>
-  <br/>
   <hr/>
   <h4>PROJECTS</h4>
 </p>
