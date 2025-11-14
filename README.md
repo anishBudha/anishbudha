@@ -39,9 +39,8 @@ const profile = {
   <h4>Frontend Technologies</h4>
   <span><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass"/></span>
-  <span><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></span>
   <br/>
 
   <h4>Backend Technologies</h4>
